@@ -1,11 +1,11 @@
 const data = Array.from({ length: 100 }).map((_, i) => `Item${i + 1}`);
 
-let perPage = 5;
+let perPage = 10;
 const state = {
   page: 1,
   perPage,
   totalPage: Math.ceil(data.length / perPage),
-  maxVisibleButtons: 5
+  maxVisibleButtons: 4
 };
 
 const html = {
