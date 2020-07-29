@@ -34,6 +34,14 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ## O servidor iniciara na porta:3333 - acesse <http://localhost:3333>
 
+<br>
+
 # licença📝
 
-Este projeto está sob a licença MIT. Consulte a [LICENÇA]() para obter mais informações.
+Este projeto está sob a licença MIT. Consulte a [LICENÇA](/license) para obter mais informações.
+<br>
+
+feito com ❤️ por Pedro Henrique 👏🏼.[Entre em contato](https://www.linkedin.com/in/pedro-henrique-silva-rodrigues-0544ab199/)
+<br>
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FPedro65332)
+<br>
