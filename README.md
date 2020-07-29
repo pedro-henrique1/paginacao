@@ -1,21 +1,39 @@
 <h1 align="center">paginação</h1>
 
 <p> a aplicação foi uma paginação</p>
-🔗<a href="https://www.youtube.com/watch?v=6-VDE3H9-WU">link do video</a>
 
-## tecnologia usada🚀
+🔗[link do video da aplicação](https://www.youtube.com/watch?v=6-VDE3H9-WU)
 
-<p>foi essa aplicação foi feita com:</p>
-<ul>
-  <li>
-    html5  
-  </li>
-  <li>
-    css3
-  </li>
-  <li>
-    javascript
-  </li>
-</ul>
+## tecnologia usada🛠️
+
+<p>Essa aplicação foi feita com:
+
+[html5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)<br>
+[css3](https://developer.mozilla.org/pt-br/docs/web/css)<br>
+[javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/About_JavaScript)
+
+</p>
 
 ## como usar🎉
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+## Clone este repositório
+
+\$ git clone <https://github.com/pedro-henrique1/paginacao.git>
+
+## Acesse a pasta do projeto no terminal/cmd
+
+\$ cd paginacao
+
+## Execute a aplicação em modo de desenvolvimento
+
+\$ yarn dev
+
+## O servidor iniciara na porta:3333 - acesse <http://localhost:3333>
+
+# licença📝
+
+Este projeto está sob a licença MIT. Consulte a [LICENÇA]() para obter mais informações.
