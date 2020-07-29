@@ -1,6 +1,6 @@
 <h1 align="center">paginação</h1>
 
-<p> a aplicação foi uma paginação</p>
+<p>Essa  aplicação foi uma paginação</p>
 
 🔗[link do video da aplicação](https://www.youtube.com/watch?v=6-VDE3H9-WU)
 
