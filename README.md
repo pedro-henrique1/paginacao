@@ -1,4 +1,4 @@
-<h1 align="center">paginação</h1>
+<h1 align="center">Paginação</h1>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/pedro-henrique1/paginacao)
 ![GitHub](https://img.shields.io/github/license/pedro-henrique1/paginacao)
@@ -8,7 +8,7 @@
 
 🔗[link do video da aplicação](https://www.youtube.com/watch?v=6-VDE3H9-WU)
 
-## 🛠 tecnologia usada
+## 🛠 Tecnologia usada
 
 <p>Essa aplicação foi feita com:
 
@@ -18,10 +18,10 @@
 
 </p>
 
-## 🎉 como usar
+## 🎉 Como usar
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).<br>
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 ```zsh
@@ -32,6 +32,10 @@ $ git clone https://github.com/pedro-henrique1/paginacao.git
 ## Acesse a pasta do projeto no terminal/cmd
 
 $ cd paginacao
+
+# baixar as dependências do projeto
+
+$ yarn
 
 ## Execute a aplicação em modo de desenvolvimento
 
