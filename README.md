@@ -1,10 +1,14 @@
 <h1 align="center">paginação</h1>
 
+![GitHub repo size](https://img.shields.io/github/repo-size/pedro-henrique1/paginacao)
+![GitHub](https://img.shields.io/github/license/pedro-henrique1/paginacao)
+![GitHub top language](https://img.shields.io/github/languages/top/pedro-henrique1/paginacao)
+
 <p>Essa  aplicação foi uma paginação</p>
 
 🔗[link do video da aplicação](https://www.youtube.com/watch?v=6-VDE3H9-WU)
 
-## tecnologia usada🛠️
+## 🛠 tecnologia usada
 
 <p>Essa aplicação foi feita com:
 
@@ -14,34 +18,35 @@
 
 </p>
 
-## como usar🎉
+## 🎉 como usar
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
+```zsh
 ## Clone este repositório
 
-\$ git clone <https://github.com/pedro-henrique1/paginacao.git>
+$ git clone https://github.com/pedro-henrique1/paginacao.git
 
 ## Acesse a pasta do projeto no terminal/cmd
 
-\$ cd paginacao
+$ cd paginacao
 
 ## Execute a aplicação em modo de desenvolvimento
 
-\$ yarn dev
+$ yarn dev
 
-## O servidor iniciara na porta:3333 - acesse <http://localhost:3333>
+## O servidor iniciara na porta:3333 - acesse http://localhost:3333
+
+```
 
 <br>
 
-# licença📝
+# 📝 licença
 
-Este projeto está sob a licença MIT. Consulte a [LICENÇA](/license) para obter mais informações.
+Este projeto está sob a licença MIT. Consulte a [LICENÇA](/LICENSE) para obter mais informações.
 <br>
 
 feito com ❤️ por Pedro Henrique 👏🏼.[Entre em contato](https://www.linkedin.com/in/pedro-henrique-silva-rodrigues-0544ab199/)
-<br>
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FPedro65332)
 <br>
