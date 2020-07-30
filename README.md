@@ -33,7 +33,7 @@ $ git clone https://github.com/pedro-henrique1/paginacao.git
 
 $ cd paginacao
 
-# baixar as dependências do projeto
+## baixar as dependências do projeto
 
 $ yarn
 
@@ -47,10 +47,10 @@ $ yarn dev
 
 <br>
 
-# 📝 licença
+# 📝 Licença
 
 Este projeto está sob a licença MIT. Consulte a [LICENÇA](/LICENSE) para obter mais informações.
 <br>
 
-feito com ❤️ por Pedro Henrique 👏🏼.[Entre em contato](https://www.linkedin.com/in/pedro-henrique-silva-rodrigues-0544ab199/)
+feito com ❤️ por Pedro Henrique 👏🏼.<br>[Entre em contato](https://www.linkedin.com/in/pedro-henrique-silva-rodrigues-0544ab199/)
 <br>
